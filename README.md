@@ -18,7 +18,6 @@ My recent articles:
 
 <!-- BLOG-POST-LIST:START -->
 - [Translate your web app using ChatGPT and i18n](https://www.thetalhatahir.com/blog/translate-your-app-using-chatgpt-and-i18n)
-- [How I applied to hundred of jobs in a few clicks](https://www.thetalhatahir.com/blog/applying-to-hundred-jobs-quickly)
 - [Should i use Vim?](https://www.thetalhatahir.com/blog/should-i-use-vim)
 - [ReactJS vs NextJS](https://www.thetalhatahir.com/blog/reactjs-vs-nextjs)
 <!-- BLOG-POST-LIST:END -->
