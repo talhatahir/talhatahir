@@ -17,9 +17,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 My recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate chrome extension to streamline your job search](https://www.thetalhatahir.com/blog/jobfillr-autofill-job-applications)
+- [Top websites for landing a global remote job in Engineering](https://www.thetalhatahir.com/blog/top-websites-for-remote-jobs)
 - [Translate your web app using ChatGPT and i18n](https://www.thetalhatahir.com/blog/translate-your-app-using-chatgpt-and-i18n)
 - [Should i use Vim?](https://www.thetalhatahir.com/blog/should-i-use-vim)
-- [ReactJS vs NextJS](https://www.thetalhatahir.com/blog/reactjs-vs-nextjs)
 <!-- BLOG-POST-LIST:END -->
 
 
